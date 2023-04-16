@@ -1,1 +1,2 @@
 # Spot-on-Weather-app
+Anyone who wishes to stay up to date on the current weather in their neighborhood or in other places across the world should use the Spot-on Weather App. This app is ideal for you if you're organizing a trip, getting ready for an outdoor activity, or are simply interested in the weather. The software would gather information from multiple sources using weather APIs and present the weather in an intuitive way.
